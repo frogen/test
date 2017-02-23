@@ -1,0 +1,7 @@
+1..前端同学，来，说说es3，es5，es6的区别；各个浏览器内核的区别；页面具体的渲染流程；说说hybrid和h5的优缺点；在谈谈当下流行的react到底是个什么东东，解决了什么问题；amd，cmd是什么；mvc，mvp，mvvm等怎么区分，以及应用场景；谈谈你对其他前端框架或者前端库的了解，underscore，jquery，backbone，angular，requirejs，seajs，bootstrap，flux，knockout...；再来谈谈前端工程化打包工具，gunt，webpack啥的会用么，会写插件么；说了那么多其实我想表达的是，前端要学的东西真的很多，更新还那么快，工资没有虚高，光那些个流行框架，就够你学的（后端同学说前端很简单，我也会写js，其实他们也就知道js语法而已，天大的笑话，我看着后端案例也能写后台语言，程序本来就相通的）
+
+作者：jeffrey chen
+链接：https://www.zhihu.com/question/34999421/answer/78124502
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+2..jQuery中的过滤选择器:first是第一个元素，而:first-child是第一个集合
